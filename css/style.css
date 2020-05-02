@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    margin: 40px auto 60px;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}
